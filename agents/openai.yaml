@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音直播秒杀参数化修改"
+  short_description: "通过已登录 Chrome 批量修改直播秒杀日期、库存和限购并回读验证"
+  default_prompt: "使用 $douyin-live-flash-sale-editor 安全预演并修改指定直播计划的秒杀日期、库存和限购，执行后逐项回读。"
